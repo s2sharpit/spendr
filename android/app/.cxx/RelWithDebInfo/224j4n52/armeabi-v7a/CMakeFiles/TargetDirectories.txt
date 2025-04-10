@@ -1,0 +1,2 @@
+D:/Coding/Flutter/spendr/android/app/.cxx/RelWithDebInfo/224j4n52/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Coding/Flutter/spendr/android/app/.cxx/RelWithDebInfo/224j4n52/armeabi-v7a/CMakeFiles/rebuild_cache.dir
